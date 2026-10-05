@@ -1,0 +1,21 @@
+# Treat media as binary and avoid noisy textual diffs
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.avif binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.mp4 binary
+*.webm binary
+*.mov binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.otf binary
+
+# Keep source/vector/text formats diffable
+*.svg text eol=lf
+*.json text eol=lf
+*.md text eol=lf
