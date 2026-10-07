@@ -1,0 +1,47 @@
+name: Publish fragrance notes v4
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".asset-staging/NOTES_V4_READY"
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    if: github.event.head_commit.message != 'Publish Audacia fragrance notes v4'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Decode and validate note sheet
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p generated/fragrance-notes-v4
+          cat .asset-staging/notes-v4-spice-green.part*.txt \
+            | tr -d '\n\r' \
+            | base64 --decode \
+            > generated/fragrance-notes-v4/spice-green.webp
+
+          test "$(stat -c%s generated/fragrance-notes-v4/spice-green.webp)" -gt 100000
+          test "$(head -c 4 generated/fragrance-notes-v4/spice-green.webp)" = "RIFF"
+          test "$(dd if=generated/fragrance-notes-v4/spice-green.webp bs=1 skip=8 count=4 2>/dev/null)" = "WEBP"
+          file generated/fragrance-notes-v4/spice-green.webp
+
+          rm -f .asset-staging/notes-v4-spice-green.part*.txt
+          rm -f .asset-staging/NOTES_V4_READY
+
+      - name: Commit published note sheet
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generated/fragrance-notes-v4/spice-green.webp .asset-staging
+          git commit -m "Publish Audacia fragrance notes v4"
+          git push
