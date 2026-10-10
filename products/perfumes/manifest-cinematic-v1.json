@@ -1,0 +1,1311 @@
+{
+  "version": 1,
+  "description": "Fotos de perfumes geradas para o catálogo Audácia. Arquivos WebP individuais, produto e embalagem em cenário cinematográfico.",
+  "products": [
+    {
+      "produto_canonico_id": "e5eaae55-c93e-46a6-aa8c-0c92f8d2999b",
+      "nome": "24 Carat Pure Gold",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/24-carat-pure-gold-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/24-carat-pure-gold-100ml-cinematic-v1.webp",
+      "sha256": "bc043313ed8ac6a124190520809c739c76997df635ae3828ad2f35fe2853c0cc"
+    },
+    {
+      "produto_canonico_id": "f441d009-c8b7-48a3-8bc1-834d61fadccb",
+      "nome": "24 Carat White Gold",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/24-carat-white-gold-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/24-carat-white-gold-100ml-cinematic-v1.webp",
+      "sha256": "5435325ab90ba3618ee3a61ad326ac8a92eaa3d552f01c0874dae35d229c2dd5"
+    },
+    {
+      "produto_canonico_id": "78e1cec9-83e3-455c-b6d2-78a71e0d7d04",
+      "nome": "9am Dive",
+      "marca": "Afnan",
+      "volume_ml": 100,
+      "path": "products/perfumes/9am-dive-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/9am-dive-100ml-cinematic-v1.webp",
+      "sha256": "ee00ae8ab7b59be30e67913a10ab22862ec518a62ea21b0a7c484463ba9eca7b"
+    },
+    {
+      "produto_canonico_id": "2a1295c8-566d-4731-9d83-4d8f04ea15ac",
+      "nome": "9PM Elixir",
+      "marca": "Afnan",
+      "volume_ml": 100,
+      "path": "products/perfumes/9pm-elixir-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/9pm-elixir-100ml-cinematic-v1.webp",
+      "sha256": "78430efc22ba1eb362031affa7b8709b02c5de77035f04f4473768d342a49dad"
+    },
+    {
+      "produto_canonico_id": "2dee868a-f9b2-42ea-aef3-03619ab8808b",
+      "nome": "9 PM Night Out",
+      "marca": "Afnan",
+      "volume_ml": 100,
+      "path": "products/perfumes/9-pm-night-out-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/9-pm-night-out-100ml-cinematic-v1.webp",
+      "sha256": "08c5886f3a0adf4df10c23b1997c71896b0c5e277ffcc87cbf33f20d63201d61"
+    },
+    {
+      "produto_canonico_id": "bf326e25-2dfc-4e97-b7e3-b79842ee6c76",
+      "nome": "9pm Rebel",
+      "marca": "Afnan",
+      "volume_ml": 100,
+      "path": "products/perfumes/9pm-rebel-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/9pm-rebel-100ml-cinematic-v1.webp",
+      "sha256": "0fcace2ba92349f05c3fc20d19558e229f99263eafde187927d7249abf16b956"
+    },
+    {
+      "produto_canonico_id": "9eb46c3b-8c81-4c00-b07a-4f3185dbe6c5",
+      "nome": "9pm",
+      "marca": "Afnan",
+      "volume_ml": 100,
+      "path": "products/perfumes/9pm-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/9pm-100ml-cinematic-v1.webp",
+      "sha256": "2e0a802a9c118314a8181e07426df590271f13e89828f9dd1861598ae6f4defa"
+    },
+    {
+      "produto_canonico_id": "bf5d9033-cf8f-4a03-afc2-6db5dbd72ed8",
+      "nome": "Abyat",
+      "marca": "Al Wataniah",
+      "volume_ml": 100,
+      "path": "products/perfumes/abyat-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/abyat-100ml-cinematic-v1.webp",
+      "sha256": "fd9c75b8fa84cb420e855dddd2f3d8ed08932824eb45e2e892a1f1fdfe7c9910"
+    },
+    {
+      "produto_canonico_id": "92800d0e-c4d7-4985-8413-c8776a524a68",
+      "nome": "Addicted Imperial Parfum",
+      "marca": "Hamidi",
+      "volume_ml": 120,
+      "path": "products/perfumes/addicted-imperial-parfum-120ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/addicted-imperial-parfum-120ml-cinematic-v1.webp",
+      "sha256": "cc1e5ddee9b5909755ea80b7c331deebadd3abf44e72ea95aa997ac5f4924853"
+    },
+    {
+      "produto_canonico_id": "978ac338-94a9-401b-9e25-02d617c1efd8",
+      "nome": "Afeef",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/afeef-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/afeef-100ml-cinematic-v1.webp",
+      "sha256": "6eb97b841df9229f19ab378ce319f10ca7951dd4e7daeab667f320a152775df7"
+    },
+    {
+      "produto_canonico_id": "fc92e7b5-5017-449a-be01-dc500a6b6f5f",
+      "nome": "Ain Emarat",
+      "marca": "Al Wataniah",
+      "volume_ml": 100,
+      "path": "products/perfumes/ain-emarat-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ain-emarat-100ml-cinematic-v1.webp",
+      "sha256": "9bdf3a7d96890cdb77c41d52514a2d94c9257d5f40896fdcfa3f3b916573922e"
+    },
+    {
+      "produto_canonico_id": "a2311a80-c68b-4c31-8997-f16cb54ebd9b",
+      "nome": "Ajayeb Dubai Portrait",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/ajayeb-dubai-portrait-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ajayeb-dubai-portrait-100ml-cinematic-v1.webp",
+      "sha256": "ea031697b6570052181cf42d373121a439e11b74a4f1e16393e718f355a53686"
+    },
+    {
+      "produto_canonico_id": "d26e3a98-f5f6-4702-9683-0641813a1b31",
+      "nome": "Ajayeb Dubai",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/ajayeb-dubai-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ajayeb-dubai-100ml-cinematic-v1.webp",
+      "sha256": "733219ad860ddfeadd0dd027c96b5c45cce8e71a77ef21a5d8b294296b47c975"
+    },
+    {
+      "produto_canonico_id": "376cc962-57dd-4dd4-8267-00097bec7487",
+      "nome": "Ajwad Pink to Pink",
+      "marca": "Lattafa",
+      "volume_ml": 60,
+      "path": "products/perfumes/ajwad-pink-to-pink-60ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ajwad-pink-to-pink-60ml-cinematic-v1.webp",
+      "sha256": "2e349d693555d4ecfbaaffa9af097586e28358ca6dc5823cfd03c57acc5ce92a"
+    },
+    {
+      "produto_canonico_id": "5436582a-dc57-4edd-a7c6-47e46ed76b3c",
+      "nome": "Ajwad",
+      "marca": "Lattafa",
+      "volume_ml": 60,
+      "path": "products/perfumes/ajwad-60ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ajwad-60ml-cinematic-v1.webp",
+      "sha256": "b040e2e244b380aefb14379524f0d07696f46e7512cf1efa32d2769103e8bc73"
+    },
+    {
+      "produto_canonico_id": "45fafccb-23ef-46ea-a92d-5c1a6ab4c28c",
+      "nome": "Al Areeq Silver",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/al-areeq-silver-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/al-areeq-silver-100ml-cinematic-v1.webp",
+      "sha256": "e7292b02e979a0f8e8ed1e4ee9354b3e4a2851b50d0bf9dff9d99b55e7433dfa"
+    },
+    {
+      "produto_canonico_id": "c8a57d8a-de93-420a-a9a1-f90d8953f18b",
+      "nome": "Al Dur Al Maknoon Silver",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/al-dur-al-maknoon-silver-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/al-dur-al-maknoon-silver-100ml-cinematic-v1.webp",
+      "sha256": "78ef0d6bbd6c9d19c3b29a3f3a7963b98b2d81f56a6427f42ffec4994b669f60"
+    },
+    {
+      "produto_canonico_id": "92f63c08-522b-4996-bf9d-3b6fb025ad46",
+      "nome": "Al Nashama Caprice",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/al-nashama-caprice-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/al-nashama-caprice-100ml-cinematic-v1.webp",
+      "sha256": "5878370d567028338b1f23ea60f06583aec38fa33d06344990b80bfc015eb727"
+    },
+    {
+      "produto_canonico_id": "afd3243b-2754-4302-9b47-850e102e4b70",
+      "nome": "Al Nashama",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/al-nashama-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/al-nashama-100ml-cinematic-v1.webp",
+      "sha256": "a92a2102146a79642315f1cfe3ecab32f71afce0358a8ac2796902437560d1f3"
+    },
+    {
+      "produto_canonico_id": "2d60e721-0682-4b91-99fb-26c5f88fcd7f",
+      "nome": "Al Noble Safeer",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/al-noble-safeer-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/al-noble-safeer-100ml-cinematic-v1.webp",
+      "sha256": "dd3a5426a10dbddbf39d2ac5f9bff32799299183ef58d91b79755e364d0e53d6"
+    },
+    {
+      "produto_canonico_id": "37b799b6-31c7-4af1-b28e-e59903c0c69b",
+      "nome": "Alpine Homme Sport",
+      "marca": "Maison Alhambra",
+      "volume_ml": 100,
+      "path": "products/perfumes/alpine-homme-sport-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/alpine-homme-sport-100ml-cinematic-v1.webp",
+      "sha256": "36d66f967168d20e0e5a495c50e6a10ac209ef9f02085e94a66026088aa919b2"
+    },
+    {
+      "produto_canonico_id": "fa49c8ee-b787-4245-848c-75d6a988dbdb",
+      "nome": "Amber Oud Bleu Edition",
+      "marca": "Al Haramain",
+      "volume_ml": 100,
+      "path": "products/perfumes/amber-oud-bleu-edition-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/amber-oud-bleu-edition-100ml-cinematic-v1.webp",
+      "sha256": "455396dff6a16ba1a0734aea24833533d8d750987c39c3aacc80ac3512d3552c"
+    },
+    {
+      "produto_canonico_id": "3567aef1-29a6-4a46-9e92-6c1701a60bfc",
+      "nome": "Amber Oud Carbon Edition",
+      "marca": "Al Haramain",
+      "volume_ml": 100,
+      "path": "products/perfumes/amber-oud-carbon-edition-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/amber-oud-carbon-edition-100ml-cinematic-v1.webp",
+      "sha256": "1119fa03ee0ca567f319c9867c8209ffda14babbeb3747d732b2033e6f8f667d"
+    },
+    {
+      "produto_canonico_id": "aa1de1cc-8984-454d-9a66-fcf1b7f7aeea",
+      "nome": "Amber Oud Dubai Night",
+      "marca": "Al Haramain",
+      "volume_ml": 100,
+      "path": "products/perfumes/amber-oud-dubai-night-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/amber-oud-dubai-night-100ml-cinematic-v1.webp",
+      "sha256": "1ecb70488bea51a65b7fc48b2f2e5c2b9b7879eb57ecdcde4ba11dd0cf26afcf"
+    },
+    {
+      "produto_canonico_id": "42d125b0-17be-49e0-a398-b4aa33d97399",
+      "nome": "Amber Oud Gold 999.9 Dubai Edition",
+      "marca": "Al Haramain",
+      "volume_ml": 100,
+      "path": "products/perfumes/amber-oud-gold-999-9-dubai-edition-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/amber-oud-gold-999-9-dubai-edition-100ml-cinematic-v1.webp",
+      "sha256": "c00bfdf66a74097341fcdfa6469acb7c89915e86e07e9727547d3dddba682b24"
+    },
+    {
+      "produto_canonico_id": "533db6bd-b531-4c81-9437-79f1ab812ebb",
+      "nome": "Amber Oud Gold Edition",
+      "marca": "Al Haramain",
+      "volume_ml": 120,
+      "path": "products/perfumes/amber-oud-gold-edition-120ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/amber-oud-gold-edition-120ml-cinematic-v1.webp",
+      "sha256": "fb19e4b04cbbe95fc96f4cc11a6a41e358a89d6d84cfccb4af9a1528f1468efd"
+    },
+    {
+      "produto_canonico_id": "976d84dd-3490-4596-aec5-7ec1642e0712",
+      "nome": "Amber Oud White",
+      "marca": "Al Haramain",
+      "volume_ml": 100,
+      "path": "products/perfumes/amber-oud-white-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/amber-oud-white-100ml-cinematic-v1.webp",
+      "sha256": "7a7f445acc1b9c44e8a4405b17973e958fd3f8bac56130662d1522e9424136ef"
+    },
+    {
+      "produto_canonico_id": "1581f20d-c8a2-4980-a2ee-138fa85e883c",
+      "nome": "Ameer Al Arab Imperium",
+      "marca": "Asdaaf",
+      "volume_ml": 100,
+      "path": "products/perfumes/ameer-al-arab-imperium-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ameer-al-arab-imperium-100ml-cinematic-v1.webp",
+      "sha256": "2dabd875f74eba08f7b8b0a1cc5d9edcbdd44256c46f09341cff1505ebf4d133"
+    },
+    {
+      "produto_canonico_id": "9d5a9923-a3b2-4346-b0ee-11d0ecfd7a8e",
+      "nome": "Ameer Al Arab",
+      "marca": "Asdaaf",
+      "volume_ml": 100,
+      "path": "products/perfumes/ameer-al-arab-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ameer-al-arab-100ml-cinematic-v1.webp",
+      "sha256": "a50b503e710f1932eaca9c6b646cdd27ebcf36912f46b23ea95b1fc01dfdfec9"
+    },
+    {
+      "produto_canonico_id": "43972e2b-8090-4ab9-9e12-bbfba2ed1e07",
+      "nome": "Ameerat Al Arab Prive Rose",
+      "marca": "Asdaaf",
+      "volume_ml": 100,
+      "path": "products/perfumes/ameerat-al-arab-prive-rose-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ameerat-al-arab-prive-rose-100ml-cinematic-v1.webp",
+      "sha256": "d70a8b3bb36e67a021f3396eab6a7220ceeb13dd375962e4a130929ab4fa765d"
+    },
+    {
+      "produto_canonico_id": "ee07cdaf-5a12-4476-99b2-1ccbd80d86db",
+      "nome": "Ameerat Al Arab Sugar Crown",
+      "marca": "Asdaaf",
+      "volume_ml": 100,
+      "path": "products/perfumes/ameerat-al-arab-sugar-crown-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ameerat-al-arab-sugar-crown-100ml-cinematic-v1.webp",
+      "sha256": "070ccf4721a9fa5696da669507a116c623a528180487ac5ddb9077da0825b564"
+    },
+    {
+      "produto_canonico_id": "c0799f2f-9bb3-4f5d-871b-0327e1c4fcb5",
+      "nome": "Ameerat Al Arab",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/ameerat-al-arab-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ameerat-al-arab-100ml-cinematic-v1.webp",
+      "sha256": "d1b597f73aaf14120ff2136b30a54ee0f68cb85726b2f625c0e16c07bf7bbb68"
+    },
+    {
+      "produto_canonico_id": "ea3791b2-2d75-4594-b381-80aa5b4e56cb",
+      "nome": "Ameerati",
+      "marca": "Al Wataniah",
+      "volume_ml": 100,
+      "path": "products/perfumes/ameerati-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ameerati-100ml-cinematic-v1.webp",
+      "sha256": "238350790b2ecf0ee36c686ac3b0e4148359e13c968f53640d895c7470c3448f"
+    },
+    {
+      "produto_canonico_id": "12670a63-0dd6-4998-9c2b-6239f895c130",
+      "nome": "Bade'e Al Oud Amethyst",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/bade-e-al-oud-amethyst-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/bade-e-al-oud-amethyst-100ml-cinematic-v1.webp",
+      "sha256": "e12c2f2464cf6459600c53961ee77c59951c5dfb22f7c93323b1947381fac297"
+    },
+    {
+      "produto_canonico_id": "d75f57ac-3c29-4a49-a52a-1c846757bc51",
+      "nome": "Amnia",
+      "marca": "Al Wataniah",
+      "volume_ml": 100,
+      "path": "products/perfumes/amnia-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/amnia-100ml-cinematic-v1.webp",
+      "sha256": "7aee350850792c2c6d1b82ace6a7e97a1b69584b871907e6ff6d0ba74e0658e8"
+    },
+    {
+      "produto_canonico_id": "b7e40b2b-03c2-4769-8143-bcf62ceb166f",
+      "nome": "An Equestrian Series Haydan",
+      "marca": "French Avenue",
+      "volume_ml": 100,
+      "path": "products/perfumes/an-equestrian-series-haydan-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/an-equestrian-series-haydan-100ml-cinematic-v1.webp",
+      "sha256": "252f3da3f5ba7ca5dd25569c2227e21df385a946ba0c0aa717cfe10d794d8bb8"
+    },
+    {
+      "produto_canonico_id": "097e8a56-d57b-42aa-85a9-d3fb8d71a3f3",
+      "nome": "Ana Abiyedh Coral",
+      "marca": "Lattafa",
+      "volume_ml": 60,
+      "path": "products/perfumes/ana-abiyedh-coral-60ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ana-abiyedh-coral-60ml-cinematic-v1.webp",
+      "sha256": "03f3485fda95abcaf499ea3905af8f9a8fe4ec989188dcf70c7045fbcfb774c9"
+    },
+    {
+      "produto_canonico_id": "e10d1a36-c352-4d72-8bfa-034ccf3f8239",
+      "nome": "Ana Abiyedh Leather",
+      "marca": "Lattafa",
+      "volume_ml": 60,
+      "path": "products/perfumes/ana-abiyedh-leather-60ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ana-abiyedh-leather-60ml-cinematic-v1.webp",
+      "sha256": "26dfa7f4d82a365af5b8c823ab0bf9a428021f7523a0c2aff0501cef9f73e5b1"
+    },
+    {
+      "produto_canonico_id": "fc0b5f06-4194-499b-ac08-40a294ee03f8",
+      "nome": "Ana Abiyedh Passion",
+      "marca": "Lattafa",
+      "volume_ml": 60,
+      "path": "products/perfumes/ana-abiyedh-passion-60ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ana-abiyedh-passion-60ml-cinematic-v1.webp",
+      "sha256": "c880f5feb46e34512343b9b814015a53eb61cba54a125f8a9b5583dbd56569c6"
+    },
+    {
+      "produto_canonico_id": "dd24d37e-37cb-473d-96f7-12e980256223",
+      "nome": "Ana Abiyedh Poudrée",
+      "marca": "Lattafa",
+      "volume_ml": 60,
+      "path": "products/perfumes/ana-abiyedh-poudree-60ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ana-abiyedh-poudree-60ml-cinematic-v1.webp",
+      "sha256": "70c87b18fc2d5cc2f3c9d7acff543091a98ff2e8ecd82c6867403293a5ca8b06"
+    },
+    {
+      "produto_canonico_id": "b4c6a2cd-6269-4cba-97f2-1c2c8b424f81",
+      "nome": "Ana Abiyedh Rouge",
+      "marca": "Lattafa",
+      "volume_ml": 60,
+      "path": "products/perfumes/ana-abiyedh-rouge-60ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ana-abiyedh-rouge-60ml-cinematic-v1.webp",
+      "sha256": "cd9228d427761d5df0c9426b28ee4ececd369a5335ccc1d948fe506c0386c80c"
+    },
+    {
+      "produto_canonico_id": "7dd36f87-03d3-4cdd-9252-36b050983317",
+      "nome": "Ana Abiyedh Scarlet",
+      "marca": "Lattafa",
+      "volume_ml": 60,
+      "path": "products/perfumes/ana-abiyedh-scarlet-60ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ana-abiyedh-scarlet-60ml-cinematic-v1.webp",
+      "sha256": "cef6dcbaad22af800b651634313a2402a08107fd423987deb4b43ea9ce78c84d"
+    },
+    {
+      "produto_canonico_id": "34eb5bd3-7dbb-4c40-ae96-e73cbfbef452",
+      "nome": "Angham Second Song",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/angham-second-song-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/angham-second-song-100ml-cinematic-v1.webp",
+      "sha256": "c2d236560c36f8b701c25f16651c6c4efe3614d48fb61dbd31eaef26cb3fc7d1"
+    },
+    {
+      "produto_canonico_id": "89e429ab-8ee0-48e3-b32a-c25530b5016f",
+      "nome": "Angham",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/angham-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/angham-100ml-cinematic-v1.webp",
+      "sha256": "68d33f476f3aaca015dc3838b48db8c41cb16cc00121fcf4d07b106d51c4889c"
+    },
+    {
+      "produto_canonico_id": "485cdf5e-5dfb-4bc2-ac93-754bea326f77",
+      "nome": "Arya Peony Rose",
+      "marca": "Al Wataniah",
+      "volume_ml": 100,
+      "path": "products/perfumes/arya-peony-rose-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/arya-peony-rose-100ml-cinematic-v1.webp",
+      "sha256": "bf5c329d49356bb6917194894c25a396c7470494e17d787541f195b6dbc7996d"
+    },
+    {
+      "produto_canonico_id": "0044d0a8-1852-4533-9628-a6cfd2c68e62",
+      "nome": "Arya",
+      "marca": "Al Wataniah",
+      "volume_ml": 100,
+      "path": "products/perfumes/arya-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/arya-100ml-cinematic-v1.webp",
+      "sha256": "631772e474923574ee6a9fbb3cff35003bce081d8388919e5281e5c5610b4722"
+    },
+    {
+      "produto_canonico_id": "c9e5bcb0-c7b4-42d6-aaec-d56bde8cdf31",
+      "nome": "Asad Bourbon",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/asad-bourbon-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/asad-bourbon-100ml-cinematic-v1.webp",
+      "sha256": "e7c478a5cbde54257e986bfbfe2a059369d56f0ab71bbcab49349d123d96f1de"
+    },
+    {
+      "produto_canonico_id": "5deeea2a-691d-4c48-8fff-056d969fbfb8",
+      "nome": "Asad Zanzibar Limited Edition",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/asad-zanzibar-limited-edition-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/asad-zanzibar-limited-edition-100ml-cinematic-v1.webp",
+      "sha256": "0bdcb99ee045ece9f9d9d771c623eff982fb9bb4d6915b6ec81d3e09f154c925"
+    },
+    {
+      "produto_canonico_id": "c4df6ff6-b976-45ac-9457-f150c400488b",
+      "nome": "Asad",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/asad-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/asad-100ml-cinematic-v1.webp",
+      "sha256": "8882de4a7d94c0780288a66b7990e28236bfe800d7ca9a7ec0241ca6f4b3b059"
+    },
+    {
+      "produto_canonico_id": "060326c7-4277-4bb1-9a06-dadd0e1f71ee",
+      "nome": "Athena",
+      "marca": "Maison Alhambra",
+      "volume_ml": 100,
+      "path": "products/perfumes/athena-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/athena-100ml-cinematic-v1.webp",
+      "sha256": "25999979d10008dc8b0ea69ad9590b0fef6e6c0bf271207bd4254049d24c004f"
+    },
+    {
+      "produto_canonico_id": "10221f72-32ae-4fc4-af12-7d457cafd08a",
+      "nome": "Attar Al Wesal Gold",
+      "marca": "Al Wataniah",
+      "volume_ml": 100,
+      "path": "products/perfumes/attar-al-wesal-gold-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/attar-al-wesal-gold-100ml-cinematic-v1.webp",
+      "sha256": "c3054a3bb70c4818adc0087341882433c061381b33fceb1b58896bf591d35480"
+    },
+    {
+      "produto_canonico_id": "68bbc29a-71e5-4484-b008-4974147c048e",
+      "nome": "Avant Silk",
+      "marca": "Maison Alhambra",
+      "volume_ml": 100,
+      "path": "products/perfumes/avant-silk-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/avant-silk-100ml-cinematic-v1.webp",
+      "sha256": "d36807dce6c2c159215a9551f138fe74b1e9c41cd2e935fcc399185dac9de3f7"
+    },
+    {
+      "produto_canonico_id": "a8f0df1d-0f6d-434d-83ca-79c0b266a971",
+      "nome": "B.A.D. Femme",
+      "marca": "Maison Alhambra",
+      "volume_ml": 100,
+      "path": "products/perfumes/b-a-d-femme-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/b-a-d-femme-100ml-cinematic-v1.webp",
+      "sha256": "3d4334973e5beb72a322329ef65128027d39715bf72c5c90fe688cad4b0e0dc5"
+    },
+    {
+      "produto_canonico_id": "f5326518-940b-4844-b9af-fe6325bd790c",
+      "nome": "Bad Homme",
+      "marca": "Maison Alhambra",
+      "volume_ml": 100,
+      "path": "products/perfumes/bad-homme-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/bad-homme-100ml-cinematic-v1.webp",
+      "sha256": "fb9c5d8ae6e455c47ee6863ca1ec260369c442e6a434062399336af280f9343b"
+    },
+    {
+      "produto_canonico_id": "a60f95af-2258-4bdf-b3f0-bf21d6052933",
+      "nome": "Bareeq Al Dhahab",
+      "marca": "Al Wataniah",
+      "volume_ml": 100,
+      "path": "products/perfumes/bareeq-al-dhahab-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/bareeq-al-dhahab-100ml-cinematic-v1.webp",
+      "sha256": "15c6c29e222380c7b037b36a8d2f00d177ba9f2ef9635c3ed12e61e899c18beb"
+    },
+    {
+      "produto_canonico_id": "68bc29d0-a0e3-42cb-a311-b3cd7e227bc9",
+      "nome": "Beach Party",
+      "marca": "Armaf",
+      "volume_ml": 100,
+      "path": "products/perfumes/beach-party-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/beach-party-100ml-cinematic-v1.webp",
+      "sha256": "782d2592209c6e2fc00a13754e0d34eaeba82931def16549ee5267c645443da8"
+    },
+    {
+      "produto_canonico_id": "9a6c66a6-9571-481c-ac4f-e5bcdecbba4f",
+      "nome": "Belle Paris Belvico",
+      "marca": "Armaf",
+      "volume_ml": 100,
+      "path": "products/perfumes/belle-paris-belvico-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/belle-paris-belvico-100ml-cinematic-v1.webp",
+      "sha256": "d49f6ddae8bcc39a6adc8bfa04378de154447846a34c04b417bf1f5773fe231b"
+    },
+    {
+      "produto_canonico_id": "4f68806e-d133-4044-b654-c3a748142d35",
+      "nome": "Give Me Gourmand Berry On Top",
+      "marca": "Lattafa",
+      "volume_ml": 75,
+      "path": "products/perfumes/give-me-gourmand-berry-on-top-75ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/give-me-gourmand-berry-on-top-75ml-cinematic-v1.webp",
+      "sha256": "c8abe6ef8e50dbb4b04886cbcb8ea181fc6172d7be8f94bb79fca3953a91e262"
+    },
+    {
+      "produto_canonico_id": "6ab0cc47-4350-4f20-acf6-0c73605edb5b",
+      "nome": "Blue Sky",
+      "marca": "Armaf",
+      "volume_ml": 105,
+      "path": "products/perfumes/blue-sky-105ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/blue-sky-105ml-cinematic-v1.webp",
+      "sha256": "37fb4cc6ac930478215bced3134867c440b3efc461883ce4696d59eb5df7d08b"
+    },
+    {
+      "produto_canonico_id": "5c909e80-2a5d-45d9-a5e3-fca760f084cc",
+      "nome": "Delights Bon Bon",
+      "marca": "Armaf",
+      "volume_ml": 100,
+      "path": "products/perfumes/delights-bon-bon-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/delights-bon-bon-100ml-cinematic-v1.webp",
+      "sha256": "e748bfcd9d6828ac4663eb0a62414a6a64e3822b59ab974f3706121662a08025"
+    },
+    {
+      "produto_canonico_id": "9047f14c-84f6-428a-8545-2b3a3f30362b",
+      "nome": "Camille For Women",
+      "marca": "Maison Alhambra",
+      "volume_ml": 100,
+      "path": "products/perfumes/camille-for-women-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/camille-for-women-100ml-cinematic-v1.webp",
+      "sha256": "b2afd0b5ce7d8374ad6d31b9dca0958a4376dda678efbea66f7beedbc870b9ba"
+    },
+    {
+      "produto_canonico_id": "1ab05b0b-cf60-4950-8c54-5681cf7b8d38",
+      "nome": "Candid",
+      "marca": "Maison Alhambra",
+      "volume_ml": 100,
+      "path": "products/perfumes/candid-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/candid-100ml-cinematic-v1.webp",
+      "sha256": "f5fb55bde953c725080d85b507b610d08e1c265947d0a07b2ddae493cf5809bd"
+    },
+    {
+      "produto_canonico_id": "a73f056a-3ebc-4817-aeb5-13e7bb97ac59",
+      "nome": "Genesis Capricorn",
+      "marca": "French Avenue",
+      "volume_ml": 90,
+      "path": "products/perfumes/genesis-capricorn-90ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/genesis-capricorn-90ml-cinematic-v1.webp",
+      "sha256": "056c01989576b293cd1d1c4aa3bc33fdadabee24bc685f1efd752cdeb318ae66"
+    },
+    {
+      "produto_canonico_id": "13c80212-4077-445f-af04-3a3a335238d9",
+      "nome": "Cassius",
+      "marca": "Maison Alhambra",
+      "volume_ml": 30,
+      "path": "products/perfumes/cassius-30ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/cassius-30ml-cinematic-v1.webp",
+      "sha256": "8edcd723f98da210fa14cf50f4ecfeba036b346a4b08728032746fee3012177a"
+    },
+    {
+      "produto_canonico_id": "e8b80177-41d1-417c-b636-f7a462ff67d8",
+      "nome": "Castilla",
+      "marca": "Al Wataniah",
+      "volume_ml": 100,
+      "path": "products/perfumes/castilla-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/castilla-100ml-cinematic-v1.webp",
+      "sha256": "427a58f56ddbfb05b4814c7de307d7adb34893a40d34e26779e0e4c3e3c5d468"
+    },
+    {
+      "produto_canonico_id": "72749cb5-5e6d-49d6-8030-e48fb4ea9a02",
+      "nome": "Give Me Gourmand Choco Overdose",
+      "marca": "Lattafa",
+      "volume_ml": 75,
+      "path": "products/perfumes/give-me-gourmand-choco-overdose-75ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/give-me-gourmand-choco-overdose-75ml-cinematic-v1.webp",
+      "sha256": "97057214dd8dcc4e80ced826ca87cd147d0d2644c41c67155117b6ad435a078e"
+    },
+    {
+      "produto_canonico_id": "aa7dae41-5fdd-4660-b4b5-c70e33a410b8",
+      "nome": "Club de Nuit Bling",
+      "marca": "Armaf",
+      "volume_ml": 75,
+      "path": "products/perfumes/club-de-nuit-bling-75ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/club-de-nuit-bling-75ml-cinematic-v1.webp",
+      "sha256": "df0693cc7fd8fea195ddcab8efae144efc513de29722ac69675ebda4efe6aa03"
+    },
+    {
+      "produto_canonico_id": "0701f3a2-93e4-4cb7-a873-b8c9c6536cb2",
+      "nome": "Club de Nuit Blue Iconic",
+      "marca": "Armaf",
+      "volume_ml": 105,
+      "path": "products/perfumes/club-de-nuit-blue-iconic-105ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/club-de-nuit-blue-iconic-105ml-cinematic-v1.webp",
+      "sha256": "23b89df1e6933853fa166d4c841d35021c9b8e9cf4dda9d3434e452a92516a05"
+    },
+    {
+      "produto_canonico_id": "eec27196-fa26-462d-83e5-ec6f81081d49",
+      "nome": "Club de Nuit Impériale",
+      "marca": "Armaf",
+      "volume_ml": 105,
+      "path": "products/perfumes/club-de-nuit-imperiale-105ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/club-de-nuit-imperiale-105ml-cinematic-v1.webp",
+      "sha256": "1b1b6cdc43a1161f71c9a907506bff026129fe72aa25a3ed248e4b540a33ef8c"
+    },
+    {
+      "produto_canonico_id": "5e4059a8-2639-4ae2-9890-c8db68e47f50",
+      "nome": "Club de Nuit Intense Man",
+      "marca": "Armaf",
+      "volume_ml": 105,
+      "path": "products/perfumes/club-de-nuit-intense-man-105ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/club-de-nuit-intense-man-105ml-cinematic-v1.webp",
+      "sha256": "72933741f49ec585764e3ce80c1c4a9ed7d2cc080af99fa2d9727ab6957177e1"
+    },
+    {
+      "produto_canonico_id": "dd5e3877-4f83-4ce2-b674-6a723c8ae90a",
+      "nome": "Club de Nuit Intense Woman",
+      "marca": "Armaf",
+      "volume_ml": 105,
+      "path": "products/perfumes/club-de-nuit-intense-woman-105ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/club-de-nuit-intense-woman-105ml-cinematic-v1.webp",
+      "sha256": "19d32988c0a6315d74655541d4165b7f6c6cb31ee37447f604362664a7f5a6fb"
+    },
+    {
+      "produto_canonico_id": "fc79841d-e0cc-4b6f-bada-286c6f30b88d",
+      "nome": "Club de Nuit Maleka",
+      "marca": "Armaf",
+      "volume_ml": 105,
+      "path": "products/perfumes/club-de-nuit-maleka-105ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/club-de-nuit-maleka-105ml-cinematic-v1.webp",
+      "sha256": "d55121c1566721ae672bbda4dbdca918fbe793ff11ff6560e8e5bb3347d13134"
+    },
+    {
+      "produto_canonico_id": "1368bd53-0a35-4160-9c07-5374e40d492c",
+      "nome": "Club de Nuit Milestone",
+      "marca": "Armaf",
+      "volume_ml": 105,
+      "path": "products/perfumes/club-de-nuit-milestone-105ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/club-de-nuit-milestone-105ml-cinematic-v1.webp",
+      "sha256": "64fd0ddcfb7e3d47add2d199ac77705ee004e8ef5bc59017285d09f498fac4e9"
+    },
+    {
+      "produto_canonico_id": "24b4ea87-1257-4edd-a89a-11fd328b77cc",
+      "nome": "Club de Nuit Precieux I",
+      "marca": "Armaf",
+      "volume_ml": 55,
+      "path": "products/perfumes/club-de-nuit-precieux-i-55ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/club-de-nuit-precieux-i-55ml-cinematic-v1.webp",
+      "sha256": "441ad7287847a6e1a45623f7c42547153d5482333696baa08f4be8feeb4ce3e1"
+    },
+    {
+      "produto_canonico_id": "67aed4c0-0deb-491c-9ae0-5c3295ca7165",
+      "nome": "Club de Nuit Precieux IV",
+      "marca": "Armaf",
+      "volume_ml": 55,
+      "path": "products/perfumes/club-de-nuit-precieux-iv-55ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/club-de-nuit-precieux-iv-55ml-cinematic-v1.webp",
+      "sha256": "6cf2b459e5d4f7b04871ad9cf8affba512822367e89b8fe32588e3483c7cf80e"
+    },
+    {
+      "produto_canonico_id": "9164a9b2-b170-4022-994a-e68c69b8eb87",
+      "nome": "Club de Nuit Sillage",
+      "marca": "Armaf",
+      "volume_ml": 105,
+      "path": "products/perfumes/club-de-nuit-sillage-105ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/club-de-nuit-sillage-105ml-cinematic-v1.webp",
+      "sha256": "7f62d05637d8c54eafa6b5a920ed25089ad5b8268943e6e9607da6dbc0d5aab5"
+    },
+    {
+      "produto_canonico_id": "b30f25b7-06cf-4e52-9cd0-2ab5c5ae675f",
+      "nome": "Club de Nuit Untold",
+      "marca": "Armaf",
+      "volume_ml": 105,
+      "path": "products/perfumes/club-de-nuit-untold-105ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/club-de-nuit-untold-105ml-cinematic-v1.webp",
+      "sha256": "e9615b19e686d1674d29b7ebcfc769c849739f7b86a65cbec2e33a9eb50756ff"
+    },
+    {
+      "produto_canonico_id": "ad5e8f61-1caf-4f4a-be0a-939067f0af77",
+      "nome": "Club de Nuit Urban Elixir",
+      "marca": "Armaf",
+      "volume_ml": 105,
+      "path": "products/perfumes/club-de-nuit-urban-elixir-105ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/club-de-nuit-urban-elixir-105ml-cinematic-v1.webp",
+      "sha256": "2df11dba531fb80d6f34415d544040642fca2bb4ba5b443306a0d7581a3e4e48"
+    },
+    {
+      "produto_canonico_id": "caef56e1-3e6c-45bc-b88d-49af1c959015",
+      "nome": "Club de Nuit Urban Man",
+      "marca": "Armaf",
+      "volume_ml": 105,
+      "path": "products/perfumes/club-de-nuit-urban-man-105ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/club-de-nuit-urban-man-105ml-cinematic-v1.webp",
+      "sha256": "6194ffc2d9a0a14ae1b5f08b898b6376ecd46421af8547619be3d59a95b6a093"
+    },
+    {
+      "produto_canonico_id": "a739642d-a724-4a29-8697-92f974d6633c",
+      "nome": "Club de Nuit Woman",
+      "marca": "Armaf",
+      "volume_ml": 200,
+      "path": "products/perfumes/club-de-nuit-woman-200ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/club-de-nuit-woman-200ml-cinematic-v1.webp",
+      "sha256": "51d9e3c26bf78701478fcdedefe65301443962a0a368a1cafabff14405681d55"
+    },
+    {
+      "produto_canonico_id": "303d9bfe-b0ac-42be-b0ed-b843737d2b05",
+      "nome": "Confidential Private Gold",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/confidential-private-gold-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/confidential-private-gold-100ml-cinematic-v1.webp",
+      "sha256": "cb3c11964c3bddbfcf4727126f1e7d2a2a33937fd6d2e3916b5178efc5fd4df3"
+    },
+    {
+      "produto_canonico_id": "acccba76-645d-4875-8e13-f9b1b6cfc3b1",
+      "nome": "Connoisseur Man",
+      "marca": "Armaf",
+      "volume_ml": 100,
+      "path": "products/perfumes/connoisseur-man-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/connoisseur-man-100ml-cinematic-v1.webp",
+      "sha256": "727dcacacc5be155d07cae2cd09a8dc31fc46bb294e06dbb9b8b8c47cba7fc76"
+    },
+    {
+      "produto_canonico_id": "1bd77b04-39b1-4405-88d5-0e406566a312",
+      "nome": "Connoisseur Women",
+      "marca": "Armaf",
+      "volume_ml": 100,
+      "path": "products/perfumes/connoisseur-women-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/connoisseur-women-100ml-cinematic-v1.webp",
+      "sha256": "b7e7748cbd2c26eb20f8a861c511d16a21539ed8b11a82ac42c18f8c9c8157e3"
+    },
+    {
+      "produto_canonico_id": "88e0c575-04e1-41e4-9d83-e7f27cb0aa71",
+      "nome": "Give Me Gourmand Cookie Crave",
+      "marca": "Lattafa",
+      "volume_ml": 75,
+      "path": "products/perfumes/give-me-gourmand-cookie-crave-75ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/give-me-gourmand-cookie-crave-75ml-cinematic-v1.webp",
+      "sha256": "a8c2a6ef295a63eaae875229da6fe3b61354e28d25a8d7460021357580c6ddc4"
+    },
+    {
+      "produto_canonico_id": "bb85da5e-c657-4bac-a8c0-5bdff9af0cca",
+      "nome": "Coral Blush",
+      "marca": "Maison Alhambra",
+      "volume_ml": 30,
+      "path": "products/perfumes/coral-blush-30ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/coral-blush-30ml-cinematic-v1.webp",
+      "sha256": "2bbe36cc8999a33c8f3b13055bea09701de201a47be380108c808439d3cd811b"
+    },
+    {
+      "produto_canonico_id": "72dd30fb-5877-4da6-86be-033a6b387098",
+      "nome": "Dark Aoud",
+      "marca": "Maison Alhambra",
+      "volume_ml": 30,
+      "path": "products/perfumes/dark-aoud-30ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/dark-aoud-30ml-cinematic-v1.webp",
+      "sha256": "24b4004eb7a2ab0c1b4d6f4f589144f524e6a5c361c4788b8e7731f1c3308c62"
+    },
+    {
+      "produto_canonico_id": "3d672f6f-3239-40ec-ae10-40faf661e784",
+      "nome": "Dark Door Sport",
+      "marca": "Maison Alhambra",
+      "volume_ml": 100,
+      "path": "products/perfumes/dark-door-sport-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/dark-door-sport-100ml-cinematic-v1.webp",
+      "sha256": "c77849c2497107b14969d2a4d341058464dd414e15baf6a3d9838e17b7f10769"
+    },
+    {
+      "produto_canonico_id": "5dc7131d-0104-4db1-99fe-2b511971edc7",
+      "nome": "Delights Dubai Delicacy Red Velvet",
+      "marca": "Armaf",
+      "volume_ml": 70,
+      "path": "products/perfumes/delights-dubai-delicacy-red-velvet-70ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/delights-dubai-delicacy-red-velvet-70ml-cinematic-v1.webp",
+      "sha256": "d16a50bcbdc0088b6685217b7cc14709f5c3ac2c21a984fda101b8323dc330a3"
+    },
+    {
+      "produto_canonico_id": "3f5d4dc3-f129-4be6-94bb-b1e9872d4934",
+      "nome": "Delilah Blanc",
+      "marca": "Maison Alhambra",
+      "volume_ml": 100,
+      "path": "products/perfumes/delilah-blanc-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/delilah-blanc-100ml-cinematic-v1.webp",
+      "sha256": "2db0ec98f49b066db9eab3156068a462662d14b3c9db712668083ac30a11bb44"
+    },
+    {
+      "produto_canonico_id": "936338d7-6777-45df-9e00-bd74d7b2793a",
+      "nome": "Durrat Al Aroos",
+      "marca": "Al Wataniah",
+      "volume_ml": 85,
+      "path": "products/perfumes/durrat-al-aroos-85ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/durrat-al-aroos-85ml-cinematic-v1.webp",
+      "sha256": "0d6cc820e912a37048be7dce7ea12ae57bbbfc2a4c514e385d38b6b73b786d1f"
+    },
+    {
+      "produto_canonico_id": "7fb85370-bea9-4c33-95ba-618559f19373",
+      "nome": "Eclaire",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/eclaire-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/eclaire-100ml-cinematic-v1.webp",
+      "sha256": "1517a1d7405f74b11943a4f4928f69d45266c00cb8b99d10cf5c222c81b8e472"
+    },
+    {
+      "produto_canonico_id": "2da6c85a-24bd-4a82-b5a8-5574617d8e59",
+      "nome": "Emaan",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/emaan-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/emaan-100ml-cinematic-v1.webp",
+      "sha256": "fab24e704fb44ece1ffb2c0b78e7d5ed028572430bf71a987e2036fae0d0c12c"
+    },
+    {
+      "produto_canonico_id": "f634f7c7-1708-44d9-9c6b-bc066890c130",
+      "nome": "Eqaab",
+      "marca": "Al Wataniah",
+      "volume_ml": 100,
+      "path": "products/perfumes/eqaab-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/eqaab-100ml-cinematic-v1.webp",
+      "sha256": "b46d6aef5fb8e7e5bff54fad4f66373df7eb759d34d3fa2b99f0436588978d5e"
+    },
+    {
+      "produto_canonico_id": "a46c420d-c027-4d7f-84b7-c4d14b1f7b29",
+      "nome": "Fahad",
+      "marca": "Lattafa",
+      "volume_ml": 80,
+      "path": "products/perfumes/fahad-80ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/fahad-80ml-cinematic-v1.webp",
+      "sha256": "108c916b72798755b96308804bc737fb304fc76ed746cd1e8a0bc79cf8929ce3"
+    },
+    {
+      "produto_canonico_id": "5b297261-5076-42af-8fea-47cf2e02e8f8",
+      "nome": "Fakhar Black",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/fakhar-black-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/fakhar-black-100ml-cinematic-v1.webp",
+      "sha256": "ddc07ef37a9f909f378f85cc7254d4608018a0ba399359aaf6ad1a65369895f9"
+    },
+    {
+      "produto_canonico_id": "ae7224aa-0842-41c8-bb35-cacd6dc6de6d",
+      "nome": "Fakhar Pride Of Gold",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/fakhar-pride-of-gold-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/fakhar-pride-of-gold-100ml-cinematic-v1.webp",
+      "sha256": "251da6351358f452c8915f2ee6b51cfa0aa5f8190c63b2d1db8694f8d48e005f"
+    },
+    {
+      "produto_canonico_id": "980d93dd-7752-4fad-987d-42972d55b902",
+      "nome": "Fakhar Pride Of",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/fakhar-pride-of-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/fakhar-pride-of-100ml-cinematic-v1.webp",
+      "sha256": "8c8233131e3e13c300b7919ac18d7115993ae99bb95bf55985a32dd2d2d4a327"
+    },
+    {
+      "produto_canonico_id": "a9c1b207-70e8-4fb3-86a6-d429f9b0f438",
+      "nome": "Fatima Pink",
+      "marca": "Zimaya",
+      "volume_ml": 100,
+      "path": "products/perfumes/fatima-pink-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/fatima-pink-100ml-cinematic-v1.webp",
+      "sha256": "1720c357c4c01a9755724918c270273ad0d44c2454f11b0b0150f3efc9260cfb"
+    },
+    {
+      "produto_canonico_id": "94265bce-32e8-435e-a892-3bd74139eea1",
+      "nome": "Fatima Velvet Love",
+      "marca": "Zimaya",
+      "volume_ml": 100,
+      "path": "products/perfumes/fatima-velvet-love-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/fatima-velvet-love-100ml-cinematic-v1.webp",
+      "sha256": "06e87a9308c0effe499593f47dcb853f8c383f26e654fed71f16b64414d7c0c3"
+    },
+    {
+      "produto_canonico_id": "09d21e9a-6a6a-42e3-9ccc-71a8105ac671",
+      "nome": "Fire On Ice",
+      "marca": "Lattafa",
+      "volume_ml": 110,
+      "path": "products/perfumes/fire-on-ice-110ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/fire-on-ice-110ml-cinematic-v1.webp",
+      "sha256": "b11bdd32f0c2795a1a9bfece20e6168e4f6a9e38a48a201522931c0ecb18ae7f"
+    },
+    {
+      "produto_canonico_id": "e5b8db48-6db1-4a69-ac04-e64733e90db1",
+      "nome": "Flint",
+      "marca": "Maison Alhambra",
+      "volume_ml": 80,
+      "path": "products/perfumes/flint-80ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/flint-80ml-cinematic-v1.webp",
+      "sha256": "94ff9167ab3e7801ee53ba6f0bcf0eca920eba41f18184b1b2502c3240f993a4"
+    },
+    {
+      "produto_canonico_id": "48b48d81-16a8-42c1-97fa-7600dc3e3cbd",
+      "nome": "Forbidden Love",
+      "marca": "Maison Alhambra",
+      "volume_ml": 30,
+      "path": "products/perfumes/forbidden-love-30ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/forbidden-love-30ml-cinematic-v1.webp",
+      "sha256": "c42df1c49572bef3aeb3e2ddccc9033ed26487bdc4c49daad436f102a984bd1d"
+    },
+    {
+      "produto_canonico_id": "f775e116-eda5-44ac-8d18-5bde31a3c6e6",
+      "nome": "Fusion Intense",
+      "marca": "Maison Alhambra",
+      "volume_ml": 30,
+      "path": "products/perfumes/fusion-intense-30ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/fusion-intense-30ml-cinematic-v1.webp",
+      "sha256": "5d8f983fe8ea0b1d84aef87ee5faf0b7259375444b5288c68979cfd2b6667f78"
+    },
+    {
+      "produto_canonico_id": "f00096d6-915a-411f-8488-599a3ce1b824",
+      "nome": "Galactic Men Elixir",
+      "marca": "Maison Alhambra",
+      "volume_ml": 100,
+      "path": "products/perfumes/galactic-men-elixir-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/galactic-men-elixir-100ml-cinematic-v1.webp",
+      "sha256": "3943f7b0c60bac386632d0b60bd2174979dec7950ef22ccaceddbe78a685a50d"
+    },
+    {
+      "produto_canonico_id": "e0a366d0-9404-472a-b08b-1b6ba62129a8",
+      "nome": "Galatea",
+      "marca": "Maison Alhambra",
+      "volume_ml": 100,
+      "path": "products/perfumes/galatea-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/galatea-100ml-cinematic-v1.webp",
+      "sha256": "a39f6666e1e7ef2c29055d456fd7affdaa4c83f06eeb557e4b58bab1309d365a"
+    },
+    {
+      "produto_canonico_id": "09a125f2-ed7f-4c8d-9369-407734df2645",
+      "nome": "Ghala",
+      "marca": "Al Wataniah",
+      "volume_ml": 100,
+      "path": "products/perfumes/ghala-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/ghala-100ml-cinematic-v1.webp",
+      "sha256": "93685f9531d93925b5f4edbdaa6cb75da3b7b17745ec3ccf7ca4099ed172a4d4"
+    },
+    {
+      "produto_canonico_id": "64189e0e-4777-4981-a915-4b561e88e757",
+      "nome": "Glacier Bella",
+      "marca": "Maison Alhambra",
+      "volume_ml": 100,
+      "path": "products/perfumes/glacier-bella-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/glacier-bella-100ml-cinematic-v1.webp",
+      "sha256": "c26c59d6810696742bc5a3ad5a9ad961c4d5e58bf9232f7f9a9ae371600c3757"
+    },
+    {
+      "produto_canonico_id": "a70ba00f-5dec-4c6a-80ce-6863fdc3aa07",
+      "nome": "Glacier Gold",
+      "marca": "Maison Alhambra",
+      "volume_ml": 100,
+      "path": "products/perfumes/glacier-gold-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/glacier-gold-100ml-cinematic-v1.webp",
+      "sha256": "8808853cfb6d7cddccc2c96c35ba3ff8c052b6163f8683083d1a21576d18cc75"
+    },
+    {
+      "produto_canonico_id": "32322b82-988d-4cfa-9e23-d7857762ce89",
+      "nome": "Glacier Le Noir",
+      "marca": "Maison Alhambra",
+      "volume_ml": 100,
+      "path": "products/perfumes/glacier-le-noir-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/glacier-le-noir-100ml-cinematic-v1.webp",
+      "sha256": "283636faaf69a3a02c398d94a4023c7029bab5d9db09bb3862aaa7dd311f2133"
+    },
+    {
+      "produto_canonico_id": "abe8d445-e328-410a-ad52-b25899141d20",
+      "nome": "Glacier Pour Homme",
+      "marca": "Maison Alhambra",
+      "volume_ml": 100,
+      "path": "products/perfumes/glacier-pour-homme-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/glacier-pour-homme-100ml-cinematic-v1.webp",
+      "sha256": "aa1af480a9d1dd37d1e1c37d35d9383708c897242e19df494d24526d45500cdc"
+    },
+    {
+      "produto_canonico_id": "55bca4fa-54bb-4bdb-8194-2d02881a3aa9",
+      "nome": "Granada",
+      "marca": "Al Wataniah",
+      "volume_ml": 100,
+      "path": "products/perfumes/granada-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/granada-100ml-cinematic-v1.webp",
+      "sha256": "c2003731687b5d857ac1e6266295a571b9690fffe22a297a05cb4685b9b9de2b"
+    },
+    {
+      "produto_canonico_id": "a1081a67-ddbc-4553-bb11-a269ccaee329",
+      "nome": "Habik For Men",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/habik-for-men-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/habik-for-men-100ml-cinematic-v1.webp",
+      "sha256": "c1635158b5f662a22f169c12ea39585041f51f5f74a01a6843afdc90fc6b4452"
+    },
+    {
+      "produto_canonico_id": "2d84f7de-8e1e-4d9b-977a-81f2aa07ad79",
+      "nome": "Habik For Women",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/habik-for-women-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/habik-for-women-100ml-cinematic-v1.webp",
+      "sha256": "ea1c38f61e3722f1791cf3a4cca21f3a873ea1d6dfc142e5db8d82afec9c5e9c"
+    },
+    {
+      "produto_canonico_id": "200b0b02-9734-44e1-8ab6-858ac47b30e8",
+      "nome": "Happy Brush",
+      "marca": "Lattafa",
+      "volume_ml": 75,
+      "path": "products/perfumes/happy-brush-75ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/happy-brush-75ml-cinematic-v1.webp",
+      "sha256": "024c24ab7b569909fa724d225e0ec83e5a52a005293e8b6c35545ce8f119c794"
+    },
+    {
+      "produto_canonico_id": "a1043a31-cc7d-411a-8d8b-a63ce626a616",
+      "nome": "Happy Time",
+      "marca": "Lattafa",
+      "volume_ml": 75,
+      "path": "products/perfumes/happy-time-75ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/happy-time-75ml-cinematic-v1.webp",
+      "sha256": "e1f139fa42f0ec90b0e3d5dee93b6045148a573b0b976844f9f1a3b81384036f"
+    },
+    {
+      "produto_canonico_id": "e7f3f35a-3ab9-4492-a94c-7fc98523751d",
+      "nome": "Hawas Atlantis For Him",
+      "marca": "Rasasi",
+      "volume_ml": 100,
+      "path": "products/perfumes/hawas-atlantis-for-him-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/hawas-atlantis-for-him-100ml-cinematic-v1.webp",
+      "sha256": "12cbc75ba5e27af493c9e96c1dd5ce98490b2d788014c41aab5149334a437ffd"
+    },
+    {
+      "produto_canonico_id": "98be486b-8c3c-40e6-ba50-9bbd689c1579",
+      "nome": "Hawas Black",
+      "marca": "Rasasi",
+      "volume_ml": 100,
+      "path": "products/perfumes/hawas-black-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/hawas-black-100ml-cinematic-v1.webp",
+      "sha256": "6147cb063906a68b2582ffd8e8b47e91c2b24dbbbcb9f97f03613319499e7aca"
+    },
+    {
+      "produto_canonico_id": "2a2a5f0e-8df7-4400-bd28-dd270c0aeede",
+      "nome": "Hawas Diva",
+      "marca": "Rasasi",
+      "volume_ml": 100,
+      "path": "products/perfumes/hawas-diva-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/hawas-diva-100ml-cinematic-v1.webp",
+      "sha256": "42fc93e17848affd07bad92a2e52c5269b1085831a51d8662cc8b1d488383ebe"
+    },
+    {
+      "produto_canonico_id": "03c0bfa0-36dd-4ac5-9039-bf375513c643",
+      "nome": "Hawas Elixir",
+      "marca": "Rasasi",
+      "volume_ml": 100,
+      "path": "products/perfumes/hawas-elixir-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/hawas-elixir-100ml-cinematic-v1.webp",
+      "sha256": "46bd34247e510d35f0f36dc45214932755a8e8ed119fea913159f23d96cd9637"
+    },
+    {
+      "produto_canonico_id": "017a5e39-7d78-4e4a-b76b-ff67ca6cd4c7",
+      "nome": "Hawas Ice",
+      "marca": "Rasasi",
+      "volume_ml": 100,
+      "path": "products/perfumes/hawas-ice-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/hawas-ice-100ml-cinematic-v1.webp",
+      "sha256": "580dfe863706c35fe3f11c5cab9361417967847e70bad5083e009fb34d8c5e49"
+    },
+    {
+      "produto_canonico_id": "43511be9-b4e0-49e9-99d6-4972633d74f9",
+      "nome": "Hawas Kobra",
+      "marca": "Rasasi",
+      "volume_ml": 100,
+      "path": "products/perfumes/hawas-kobra-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/hawas-kobra-100ml-cinematic-v1.webp",
+      "sha256": "814987e164fcf1d2ba9e7deb1cf3cdb1f5d2641ba4c05feb77149b374e2e265a"
+    },
+    {
+      "produto_canonico_id": "ed20005d-c605-430b-8ec7-eb8818180057",
+      "nome": "Hawas Malibu",
+      "marca": "Rasasi",
+      "volume_ml": 100,
+      "path": "products/perfumes/hawas-malibu-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/hawas-malibu-100ml-cinematic-v1.webp",
+      "sha256": "604724a6b4401e251a8b7618c4fa5fdb3852863e59677031c35e47c45d501e0a"
+    },
+    {
+      "produto_canonico_id": "dfdf69b6-c921-44a3-98d3-51d5bd8aef39",
+      "nome": "Badee Al Oud Honor e Glory",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/badee-al-oud-honor-e-glory-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/badee-al-oud-honor-e-glory-100ml-cinematic-v1.webp",
+      "sha256": "b4492b56f6dd182de47aa7d676d91422af8cd0fc7c07ba9e5b80cb3f1ee22753"
+    },
+    {
+      "produto_canonico_id": "9a1d9058-05ea-4a8c-9441-c31b01c1756d",
+      "nome": "Khamrah Dukhan",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/khamrah-dukhan-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/khamrah-dukhan-100ml-cinematic-v1.webp",
+      "sha256": "5d7f7df0204a92892149eacdc77d6e186d200032e53714206f19180ef04a5e24"
+    },
+    {
+      "produto_canonico_id": "5cd80e4d-240a-4c35-9f42-9810db2366fb",
+      "nome": "Khamrah Qahwa",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/khamrah-qahwa-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/khamrah-qahwa-100ml-cinematic-v1.webp",
+      "sha256": "70c80307e39ba6080907a01ed0d5880696e0548528dbff8d71186e7c683e461c"
+    },
+    {
+      "produto_canonico_id": "b2f6f9ed-032b-45aa-a10b-68d135ef9510",
+      "nome": "Khamrah",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/khamrah-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/khamrah-100ml-cinematic-v1.webp",
+      "sha256": "80e49133c53453c77ef092c888f4af9c4e57d97d06e9b0d360c0721ca56343db"
+    },
+    {
+      "produto_canonico_id": "8068a036-5b1c-4356-b3f3-7c60ec7df773",
+      "nome": "Genesis Libra",
+      "marca": "French Avenue",
+      "volume_ml": 90,
+      "path": "products/perfumes/genesis-libra-90ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/genesis-libra-90ml-cinematic-v1.webp",
+      "sha256": "abd5ee551343d1bbfd86f1b2dba16fcb82c6039cc9a1d76e952d08678bed76b3"
+    },
+    {
+      "produto_canonico_id": "903f3714-8681-48be-90ab-15cbdb2521e2",
+      "nome": "Liquid Brun",
+      "marca": "French Avenue",
+      "volume_ml": 100,
+      "path": "products/perfumes/liquid-brun-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/liquid-brun-100ml-cinematic-v1.webp",
+      "sha256": "c155a95b95d613e30c8ae062da08bc0bc7bb09278323f4ddca0d135e7268428b"
+    },
+    {
+      "produto_canonico_id": "cdc44038-59ad-4638-b8c0-5d031aee65f3",
+      "nome": "Maahir Black",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/maahir-black-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/maahir-black-100ml-cinematic-v1.webp",
+      "sha256": "6dc755ef2fe4a8cd255da4ff9dafcabb1e4aa1b1876a6a3d3b8543f95bf88b86"
+    },
+    {
+      "produto_canonico_id": "ecdab0b9-0f2e-43bc-b2b1-e7a7b3f664ed",
+      "nome": "Maahir Legacy",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/maahir-legacy-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/maahir-legacy-100ml-cinematic-v1.webp",
+      "sha256": "55385f604c6f501e5bcaf91b44d8cabdb8982e1253d1ffbf6ee47a4b80377d6e"
+    },
+    {
+      "produto_canonico_id": "8688d5bf-30f2-4f3c-ac19-18a7fd6a500c",
+      "nome": "Give Me Gourmand Mallow Madness",
+      "marca": "Lattafa",
+      "volume_ml": 75,
+      "path": "products/perfumes/give-me-gourmand-mallow-madness-75ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/give-me-gourmand-mallow-madness-75ml-cinematic-v1.webp",
+      "sha256": "3560c4de71fc0902b3b8015f43ad5ad1b42fb1198edc8c832e0d2820ac764f32"
+    },
+    {
+      "produto_canonico_id": "d68a2458-1292-4bca-b247-9d93883d9cc5",
+      "nome": "Badee Al Oud Noble Blush",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/badee-al-oud-noble-blush-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/badee-al-oud-noble-blush-100ml-cinematic-v1.webp",
+      "sha256": "4e7072b86e395ef2d43cc0f4c09938cbbd5517f5eb18afb52514bf8fae03269f"
+    },
+    {
+      "produto_canonico_id": "d21414ca-2182-4c7b-8af2-bb418cf1be31",
+      "nome": "Badee Al Oud For Glory",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/badee-al-oud-for-glory-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/badee-al-oud-for-glory-100ml-cinematic-v1.webp",
+      "sha256": "f54ee6664affc7107bc47fd3ea37d8682de14c14cf8f9a49f4754a3de8742401"
+    },
+    {
+      "produto_canonico_id": "e3cf1a1c-4469-4490-8c1a-8d90308233d6",
+      "nome": "Cordova For Him",
+      "marca": "Rayhaan",
+      "volume_ml": 100,
+      "path": "products/perfumes/cordova-for-him-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/cordova-for-him-100ml-cinematic-v1.webp",
+      "sha256": "33d304dc475baee2f734893cf43228ce7f8a3b74c92227842993ecec8f90e850"
+    },
+    {
+      "produto_canonico_id": "aecc018e-91c6-4e4f-90fe-65571c2c30e5",
+      "nome": "Dark Leather For Him",
+      "marca": "Rayhaan",
+      "volume_ml": 100,
+      "path": "products/perfumes/dark-leather-for-him-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/dark-leather-for-him-100ml-cinematic-v1.webp",
+      "sha256": "f9070d3ceaed0dafb5593da1e954be7403eea8c8ee6739eba903eb7ff32a598a"
+    },
+    {
+      "produto_canonico_id": "3f929dc2-cd5e-44ec-bc0b-c2efb3d1ed0d",
+      "nome": "Bade'e Al Oud Sublime",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/bade-e-al-oud-sublime-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/bade-e-al-oud-sublime-100ml-cinematic-v1.webp",
+      "sha256": "65922f8a4c59b18ba4f3db3edddb169ee85454759c30277b630e855114fd47c1"
+    },
+    {
+      "produto_canonico_id": "8442729d-e498-47f8-8ce4-43bf9ea07a3e",
+      "nome": "Turathi Blue",
+      "marca": "Afnan",
+      "volume_ml": 90,
+      "path": "products/perfumes/turathi-blue-90ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/turathi-blue-90ml-cinematic-v1.webp",
+      "sha256": "2a7a17bf7136d5f1d75ed6ef7a126cc0fc61cd99fbc47821c3f06a4bff9d02d8"
+    },
+    {
+      "produto_canonico_id": "aae65d5e-bb16-44dc-9437-c2c46317dd28",
+      "nome": "Give Me Gourmand Vanilla Freak",
+      "marca": "Lattafa",
+      "volume_ml": 75,
+      "path": "products/perfumes/give-me-gourmand-vanilla-freak-75ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/give-me-gourmand-vanilla-freak-75ml-cinematic-v1.webp",
+      "sha256": "118404c47ebe6e5a8f7726a4f513e03b2269abdea08f04a6f89f447b47e9d668"
+    },
+    {
+      "produto_canonico_id": "215b7aa5-d2e3-4d36-91ea-234db7663c00",
+      "nome": "Vintage Radio",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/vintage-radio-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/vintage-radio-100ml-cinematic-v1.webp",
+      "sha256": "6d6ad69f84c659bf9b5ca2e64fb95729c720a672e5cdfc15ea4320c45bf6087c"
+    },
+    {
+      "produto_canonico_id": "bc19081d-ff63-477a-9a51-558e2b586307",
+      "nome": "Give Me Gourmand Whipped Pleasure",
+      "marca": "Lattafa",
+      "volume_ml": 75,
+      "path": "products/perfumes/give-me-gourmand-whipped-pleasure-75ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/give-me-gourmand-whipped-pleasure-75ml-cinematic-v1.webp",
+      "sha256": "252b08be7eb81495f0150ec72ec50e959edb2d9d3430f3f920f9af1016b02e67"
+    },
+    {
+      "produto_canonico_id": "684e5020-b143-4fb8-b39b-737a9c500b98",
+      "nome": "Yara Candy",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/yara-candy-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/yara-candy-100ml-cinematic-v1.webp",
+      "sha256": "d5ac0d9a57ed33435560e31498ec3f67a7d8eab655effc4bc39610df0ebcb115"
+    },
+    {
+      "produto_canonico_id": "41ff020f-893f-42e5-a1fd-25e008a3ee68",
+      "nome": "Yara Moi",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/yara-moi-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/yara-moi-100ml-cinematic-v1.webp",
+      "sha256": "e163e08071b28fa503af66e30d79e7bd9e09b0edad94aa5eb0790ee17a52d822"
+    },
+    {
+      "produto_canonico_id": "b24a259e-53bd-48b0-b2e6-715a05eca111",
+      "nome": "Yara Tous",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/yara-tous-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/yara-tous-100ml-cinematic-v1.webp",
+      "sha256": "1f1b31374e3ddd258b747dc4f01181acbde7ba8a2b702243db5827d985ea25a8"
+    },
+    {
+      "produto_canonico_id": "6081d472-1c89-4846-abf9-9cbbab22a858",
+      "nome": "Yara",
+      "marca": "Lattafa",
+      "volume_ml": 100,
+      "path": "products/perfumes/yara-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/yara-100ml-cinematic-v1.webp",
+      "sha256": "4913bd7787b569861f22a0d17006045c632f52e7225213dec5cb9938b829e29a"
+    },
+    {
+      "produto_canonico_id": "556727d2-0357-4e04-aa1c-6d2a7e37e71e",
+      "nome": "Aether",
+      "marca": "French Avenue",
+      "volume_ml": 100,
+      "path": "products/perfumes/aether-100ml-cinematic-v1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/audaciaimportadosrj/audacia-assets@main/products/perfumes/aether-100ml-cinematic-v1.webp",
+      "sha256": "6f3c5ce8eb93d2494063c3e4c75877bb46b1e4c0b1b5208dc6b8f34d60aff18a"
+    }
+  ]
+}
